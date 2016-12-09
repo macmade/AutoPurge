@@ -1,0 +1,22 @@
+/*******************************************************************************
+ * Copyright (c) 2011, Jean-David Gadina <macmade@eosgarden.com>
+ * All rights reserved
+ ******************************************************************************/
+ 
+/* $Id$ */
+
+/*!
+ * @file        ...
+ * @copyright   eosgarden 2011 - Jean-David Gadina <macmade@eosgarden.com>
+ * @abstract    ...
+ */
+
+unitBytes           = "bytes";
+unitKiloBytes       = "KB";
+unitMegaBytes       = "MB";
+unitGigaBytes       = "GB";
+memoryTotal         = "Total:\t\t%@";
+memoryWired         = "Wired:\t\t%@";
+memoryActive        = "Active:\t\t%@";
+memoryInactive      = "Inactive:\t%@";
+memoryFree          = "Free:\t\t%@";
